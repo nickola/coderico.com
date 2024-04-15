@@ -1,0 +1,9 @@
+# Directories starting with "." / "_"
+/[._]*/
+
+# VS Code
+/*.code-workspace
+
+# Node
+/node_modules/
+/package-lock.json
